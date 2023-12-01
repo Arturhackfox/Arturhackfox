@@ -2,6 +2,7 @@
 
 <h1 align="center">Hey , I'm Arthur ✨ </h1>
 <h3 align="center">New day - New knowledge 👨‍💻</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXgzY21vYTFneGRhYjJqNDhrZThxZG8zamdleGR2bDJ6YjJqdnlxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VEzYdo930nTiTuVeMU/giphy.gif">
 
 
 - 👨‍💻 All of my projects are available at my gitHub 
