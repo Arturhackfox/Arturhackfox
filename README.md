@@ -1,8 +1,9 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQHvDbX9Dnq4tw/profile-displaybackgroundimage-shrink_350_1400/0/1670101076439?e=1706745600&v=beta&t=8ZxqII70fUCZvTBCS7UHEGqBgtGpeKe7VhKeGE--NXA)](https://instagram.com/archi.ios)
 
 <h1 align="center">Hey , I'm Arthur ✨ </h1>
-<h3 align="center">New day - New knowledge 👨‍💻</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXgzY21vYTFneGRhYjJqNDhrZThxZG8zamdleGR2bDJ6YjJqdnlxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VEzYdo930nTiTuVeMU/giphy.gif">
+<h3 align="left">New day - New knowledge 👨‍💻</h3>
+
+![200](https://github.com/Arturhackfox/Arturhackfox/assets/109434166/0ac2502a-8d0f-4f07-a591-e45025cb90e2)
 
 
 - 👨‍💻 All of my projects are available at my gitHub 
