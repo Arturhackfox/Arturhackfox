@@ -1,5 +1,5 @@
 
-![11](https://github.com/Arturhackfox/Arturhackfox/assets/109434166/89f8ba6e-7d97-442b-ab80-b5a01b51bc84)
+![IMG_4674](https://github.com/Arturhackfox/Arturhackfox/assets/109434166/b8114198-e053-49fb-a5a0-692eb6f55003)
 
 <h1 align="center">Hey , I'm Arthur ✨ </h1>
 <h3 align="left">New day - New knowledge 👨‍💻</h3>
